@@ -16,14 +16,14 @@ a{
 .container {
   display: column;
 }
-selection::color: lightgreen;
+selection::color: 58af0c;
 .main-wrapper{
   display: block;
 }
 nav.footer-menu {
   width: 100%;
   vertical-align: middle;
-  background-color: lightgreen;
+  background-color: #58af0c;
   padding-left: 15px;
   align-items: center;
   justify-content: center;
@@ -261,7 +261,7 @@ color: #333;
 nav.nav-menu {
   position: fixed;
   width: 100%;
-  background-color: lightgreen;
+  background-color: #58af0c;
   padding-left: 55px;
   overflow: hidden;
 }
@@ -303,7 +303,7 @@ section.youtube-embed {
   margin: 20px 0 0 0;
   padding: 10px 40px;
   width: fit-content;
-  background: lightgreen;
+  background: 58af0c;
   border-radius: 5px;
   text-decoration: none;
   color: white;
@@ -313,13 +313,13 @@ section.youtube-embed {
   transform: scale(1.05);
 }
 h1 {
-  color: lightgreen;
+  color: 58af0c;
   font-size: 34px;
 }
 h2 {  
   margin-bottom: 20px;
   font-size: 17px;
-  color: lightgreen;
+  color: 58af0c;
 }
 .webtrainee{
   font-size: 25px;
